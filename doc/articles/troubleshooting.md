@@ -197,3 +197,5 @@ If you have been pointed to this page, you want to check a few things:
 
   `sudo sh -c "echo 'precedence ::ffff:0:0/96 100' >> /etc/gai.conf"`
 - If none of the above helped, please report the error.
+
+
